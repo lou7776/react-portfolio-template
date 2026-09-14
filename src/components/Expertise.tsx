@@ -59,7 +59,7 @@ function Expertise() {
                     </div>
                 </div>
 
-                <div className="skill">
+                {/* <div className="skill">
                     <FontAwesomeIcon icon={faDocker} size="3x"/>
                     <h3>DevOps & Automation</h3>
                     <p>Once the application is built, I help clients set up DevOps testing, CI/CD pipelines, and deployment automation to support the successful Go-Live.</p>
@@ -69,9 +69,9 @@ function Expertise() {
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
-                </div>
+                </div> */}
 
-                <div className="skill">
+                {/* <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>GenAI & LLM</h3>
                     <p>Stay relevant in the market by leveraging the latest AI models in your projects. I have professional experience building enterprise grade GenAI-enabled solutions to empower intelligent decision making.</p>
@@ -81,7 +81,7 @@ function Expertise() {
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     </div>
